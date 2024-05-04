@@ -1,0 +1,12 @@
+visual_generator_model:
+  base: stabilityai/stable-diffusion-xl-base-1.0
+  repo: ByteDance/SDXL-Lightning
+  checkpoint: sdxl_lightning_4step_unet.safetensors
+product_output_path: visuals/product_photos
+detection_save_path: visuals/detection_results
+segmentation_save_path: visuals/segmentation_results
+impaint_save_path: visuals/impaint_results
+detector_model_repo: IDEA-Research/grounding-dino-tiny
+sam_model_repo: facebook/sam-vit-huge
+sam_processor_repo: facebook/sam-vit-huge
+impaint_model_repo: runwayml/stable-diffusion-inpainting

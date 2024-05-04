@@ -1,0 +1,11 @@
+diffusers==0.27.2
+huggingface_hub==0.21.4
+numpy==1.24.4
+Pillow==9.5.0
+Pillow==10.3.0
+PyYAML==6.0.1
+PyYAML==6.0.1
+safetensors==0.4.3
+setuptools==68.2.2
+torch==2.1.2
+transformers==4.40.1
