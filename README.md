@@ -77,5 +77,6 @@ Project Organization
 ## Other Links
 
 Presentation - [Click Here](reports/Presentation.pdf)
+
 Sample Results - [Click Here](https://drive.google.com/drive/folders/1LM9srq68CSwR5CCMYYypVaKtr-McZBvg?usp=sharing)
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
